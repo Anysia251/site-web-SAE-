@@ -1,0 +1,24 @@
+header {
+    text-align: center;
+}
+
+#zone_logo {
+    height: 150px;
+    overflow: hidden;
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.6;
+    margin: 0;
+}
+
+#logo {
+    height: 150px;
+    width: auto;
+}
+
+#zone_img {
+    height: 671px;
+    width: auto;
+}

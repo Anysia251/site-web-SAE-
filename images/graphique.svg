@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="fl-legend-discrete-color-0-svg-screenshot-container" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 795 576">
+  <defs>
+    <style>
+      .fls-1 {
+        fill: rgba(238, 129, 27, .9);
+      }
+
+      .fls-1, .fls-2, .fls-3, .fls-4, .fls-5 {
+        isolation: isolate;
+      }
+
+      .fls-1, .fls-3 {
+        opacity: .9;
+      }
+
+      .fls-2 {
+        fill: #4a4a4a;
+      }
+
+      .fls-2, .fls-5 {
+        font-family: ArialMT, Arial;
+        font-size: 14px;
+      }
+
+      .fls-6, .fls-7 {
+        fill: none;
+        stroke: #eee;
+        stroke-width: 1.6px;
+      }
+
+      .fls-3 {
+        fill: rgba(41, 218, 228, .9);
+      }
+
+      .fls-8 {
+        letter-spacing: -.06em;
+      }
+
+      .fls-9 {
+        letter-spacing: -.07em;
+      }
+
+      .fls-10 {
+        fill: #29dae4;
+      }
+
+      .fls-11 {
+        letter-spacing: -.02em;
+      }
+
+      .fls-5 {
+        fill: #333;
+      }
+
+      .fls-7 {
+        stroke-linecap: square;
+      }
+
+      .fls-12 {
+        fill: #ee811b;
+      }
+
+      .fls-13 {
+        letter-spacing: -.04em;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect x="59.76" y="50.02" width="712.94" height="366.46"/>
+    <g>
+      <line class="fls-6" x1="59.76" y1="416.48" x2="772.7" y2="416.48"/>
+      <line class="fls-6" x1="59.76" y1="311.77" x2="772.7" y2="311.77"/>
+      <line class="fls-6" x1="59.76" y1="207.07" x2="772.7" y2="207.07"/>
+      <line class="fls-6" x1="59.76" y1="102.37" x2="772.7" y2="102.37"/>
+    </g>
+    <g>
+      <g>
+        <line class="fls-7" x1="59.76" y1="416.48" x2="772.7" y2="416.48"/>
+        <g>
+          <g>
+            <line class="fls-6" x1="76.74" y1="416.48" x2="76.74" y2="423.48"/>
+            <g class="fls-4">
+              <text class="fls-2" transform="translate(19.47 497.31) rotate(-45)"><tspan x="0" y="0">MONTLUCON</tspan></text>
+            </g>
+          </g>
+          <g>
+            <line class="fls-6" x1="110.69" y1="416.48" x2="110.69" y2="423.48"/>
+            <g class="fls-4">
+              <text class="fls-2" transform="translate(72.11 478.61) rotate(-45)"><tspan x="0" y="0">MOULINS</tspan></text>
+            </g>
+          </g>
+          <g>
+            <line class="fls-6" x1="144.63" y1="416.48" x2="144.63" y2="423.48"/>
+            <g class="fls-4">
+              <text class="fls-2" transform="translate(111.01 473.66) rotate(-45)"><tspan x="0" y="0">YZEURE</tspan></text>
+            </g>
+          </g>
+          <g>
+            <line class="fls-6" x1="178.58" y1="416.48" x2="178.58" y2="423.48"/>
+            <g class="fls-4">
+              <text class="fls-2" transform="translate(144.96 473.66) rotate(-45)"><tspan x="0" y="0">CUSSE</tspan><tspan class="fls-11" x="48.23" y="0">T</tspan></text>
+            </g>
+          </g>
+          <g>
+            <line class="fls-6" x1="212.53" y1="416.48" x2="212.53" y2="423.48"/>
+            <g class="fls-4">
+              <text class="fls-2" transform="translate(166.42 486.15) rotate(-45)"><tspan x="0" y="0">LA</tspan><tspan class="fls-9" x="17.12" y="0">P</tspan><tspan x="25.42" y="0">ALISSE</tspan></text>
+            </g>
+          </g>
+          <g>
+            <line class="fls-6" x1="246.48" y1="416.48" x2="246.48" y2="423.48"/>
+            <g class="fls-4">
+              <text class="fls-2" transform="translate(105.06 581.47) rotate(-45)"><tspan x="0" y="0">SAIN</tspan><tspan class="fls-8" x="32.68" y="0">T</tspan><tspan x="40.46" y="0">-POURCAIN-SUR-SIOULE</tspan></text>
+            </g>
+          </g>
+          <g>
+            <line class="fls-6" x1="280.43" y1="416.48" x2="280.43" y2="423.48"/>
+            <g class="fls-4">
+              <text class="fls-2" transform="translate(222.25 498.22) rotate(-45)"><tspan x="0" y="0">COMMENT</tspan><tspan class="fls-11" x="72.32" y="0">RY</tspan></text>
+            </g>
+          </g>
+          <g>
+            <line class="fls-6" x1="314.38" y1="416.48" x2="314.38" y2="423.48"/>
+            <g class="fls-4">
+              <text class="fls-2" transform="translate(273.24 481.19) rotate(-45)"><tspan class="fls-9" x="0" y="0">A</tspan><tspan x="8.3" y="0">VERMES</tspan></text>
+            </g>
+          </g>
+          <g>
+            <line class="fls-6" x1="348.33" y1="416.48" x2="348.33" y2="423.48"/>
+            <g class="fls-4">
+              <text class="fls-2" transform="translate(312.5 475.87) rotate(-45)"><tspan x="0" y="0">EBREUI</tspan><tspan class="fls-13" x="52.12" y="0">L</tspan></text>
+            </g>
+          </g>
+          <g>
+            <line class="fls-6" x1="382.28" y1="416.48" x2="382.28" y2="423.48"/>
+            <g class="fls-4">
+              <text class="fls-2" transform="translate(273.28 549.05) rotate(-45)"><tspan x="0" y="0">BELLERIVE-SUR-ALLIER</tspan></text>
+            </g>
+          </g>
+          <g>
+            <line class="fls-6" x1="416.23" y1="416.48" x2="416.23" y2="423.48"/>
+            <g class="fls-4">
+              <text class="fls-2" transform="translate(382.25 474.03) rotate(-45)"><tspan x="0" y="0">GANN</tspan><tspan class="fls-9" x="40.45" y="0">A</tspan><tspan class="fls-11" x="48.75" y="0">T</tspan></text>
+            </g>
+          </g>
+          <g>
+            <line class="fls-6" x1="450.18" y1="416.48" x2="450.18" y2="423.48"/>
+            <g class="fls-4">
+              <text class="fls-2" transform="translate(347.98 542.25) rotate(-45)"><tspan class="fls-9" x="0" y="0">V</tspan><tspan x="8.3" y="0">ARENNES-SUR-LLIER</tspan></text>
+            </g>
+          </g>
+          <g>
+            <line class="fls-6" x1="484.13" y1="416.48" x2="484.13" y2="423.48"/>
+            <g class="fls-4">
+              <text class="fls-2" transform="translate(387.98 536.19) rotate(-45)"><tspan class="fls-11" x="0" y="0">T</tspan><tspan x="8.3" y="0">OULON-SUR-ALLIER</tspan></text>
+            </g>
+          </g>
+          <g>
+            <line class="fls-6" x1="518.08" y1="416.48" x2="518.08" y2="423.48"/>
+            <g class="fls-4">
+              <text class="fls-2" transform="translate(494.36 463.77) rotate(-45)"><tspan x="0" y="0">VICH</tspan><tspan class="fls-11" x="33.45" y="0">Y</tspan></text>
+            </g>
+          </g>
+          <g>
+            <line class="fls-6" x1="552.03" y1="416.48" x2="552.03" y2="423.48"/>
+            <g class="fls-4">
+              <text class="fls-2" transform="translate(507.41 484.67) rotate(-45)"><tspan x="0" y="0">CHARMEI</tspan><tspan class="fls-13" x="64.56" y="0">L</tspan></text>
+            </g>
+          </g>
+          <g>
+            <line class="fls-6" x1="585.98" y1="416.48" x2="585.98" y2="423.48"/>
+            <g class="fls-4">
+              <text class="fls-2" transform="translate(558.41 467.61) rotate(-45)"><tspan x="0" y="0">DOYE</tspan><tspan class="fls-11" x="39.68" y="0">T</tspan></text>
+            </g>
+          </g>
+          <g>
+            <line class="fls-6" x1="619.93" y1="416.48" x2="619.93" y2="423.48"/>
+            <g class="fls-4">
+              <text class="fls-2" transform="translate(498.85 561.12) rotate(-45)"><tspan x="0" y="0">DOMPIERRE-SUR-BESBRE</tspan></text>
+            </g>
+          </g>
+          <g>
+            <line class="fls-6" x1="653.88" y1="416.48" x2="653.88" y2="423.48"/>
+            <g class="fls-4">
+              <text class="fls-2" transform="translate(634.19 459.73) rotate(-45)"><tspan class="fls-9" x="0" y="0">V</tspan><tspan x="8.3" y="0">AUX</tspan></text>
+            </g>
+          </g>
+          <g>
+            <line class="fls-6" x1="687.83" y1="416.48" x2="687.83" y2="423.48"/>
+            <g class="fls-4">
+              <text class="fls-2" transform="translate(559.54 568.33) rotate(-45)"><tspan x="0" y="0">BOURBON-L&apos;ARCHAMBAU</tspan><tspan class="fls-9" x="175.36" y="0">L</tspan><tspan class="fls-11" x="182.11" y="0">T</tspan></text>
+            </g>
+          </g>
+          <g>
+            <line class="fls-6" x1="721.78" y1="416.48" x2="721.78" y2="423.48"/>
+            <g class="fls-4">
+              <text class="fls-2" transform="translate(659.19 502.63) rotate(-45)"><tspan x="0" y="0">SAIN</tspan><tspan class="fls-8" x="32.68" y="0">T</tspan><tspan x="40.46" y="0">-VIC</tspan><tspan class="fls-11" x="68.46" y="0">T</tspan><tspan x="76.75" y="0">OR</tspan></text>
+            </g>
+          </g>
+          <g>
+            <line class="fls-6" x1="755.72" y1="416.48" x2="755.72" y2="423.48"/>
+            <g class="fls-4">
+              <text class="fls-2" transform="translate(716.6 479.17) rotate(-45)"><tspan x="0" y="0">SAZERE</tspan><tspan class="fls-11" x="56.01" y="0">T</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g>
+        <line class="fls-7" x1="59.76" y1="416.48" x2="59.76" y2="50.02"/>
+        <g>
+          <g>
+            <line class="fls-6" x1="59.76" y1="416.48" x2="52.76" y2="416.48"/>
+            <g class="fls-4">
+              <text class="fls-2" transform="translate(41.47 421.1)"><tspan x="0" y="0">0</tspan></text>
+            </g>
+          </g>
+          <g>
+            <line class="fls-6" x1="59.76" y1="102.37" x2="52.76" y2="102.37"/>
+            <g class="fls-4">
+              <text class="fls-2" transform="translate(25.9 106.99)"><tspan x="0" y="0">600</tspan></text>
+            </g>
+          </g>
+          <g>
+            <line class="fls-6" x1="59.76" y1="207.07" x2="52.76" y2="207.07"/>
+            <g class="fls-4">
+              <text class="fls-2" transform="translate(25.9 211.69)"><tspan x="0" y="0">400</tspan></text>
+            </g>
+          </g>
+          <g>
+            <line class="fls-6" x1="59.76" y1="311.77" x2="52.76" y2="311.77"/>
+            <g class="fls-4">
+              <text class="fls-2" transform="translate(25.9 316.39)"><tspan x="0" y="0">200</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="data-points">
+    <g id="bleu">
+      <g id="bleuB">
+        <path id="point-0-0" class="fls-3" d="M63.16,416.48h27.16v-231.21h-27.16v231.21Z"/>
+        <path id="point-0-1" class="fls-3" d="M97.11,416.48h27.16v-135.94h-27.16v135.94Z"/>
+        <path id="point-0-2" class="fls-3" d="M131.05,416.48h27.16v-118.66h-27.16v118.66Z"/>
+        <path id="point-0-3" class="fls-3" d="M165,416.48h27.16v-130.18h-27.16v130.18Z"/>
+        <path id="point-0-4" class="fls-3" d="M198.95,416.48h27.16v-18.15h-27.16v18.15Z"/>
+        <path id="point-0-5" class="fls-3" d="M232.9,416.48h27.16v-47.99h-27.16v47.99Z"/>
+        <path id="point-0-6" class="fls-3" d="M266.85,416.48h27.16v-19.19h-27.16v19.19Z"/>
+        <path id="point-0-7" class="fls-3" d="M300.8,416.48h27.16v-44.85h-27.16v44.85Z"/>
+        <path id="point-0-8" class="fls-3" d="M334.75,416.48h27.16v-8.72h-27.16v8.72Z"/>
+        <path id="point-0-9" class="fls-3" d="M368.7,416.48h27.16v-100.86h-27.16v100.86Z"/>
+        <path id="point-0-10" class="fls-3" d="M402.65,416.48h27.16v-52.7h-27.16v52.7Z"/>
+        <path id="point-0-11" class="fls-3" d="M436.6,416.48h27.16v-27.57h-27.16v27.57Z"/>
+        <path id="point-0-12" class="fls-3" d="M470.55,416.48h27.16v-11.86h-27.16v11.86Z"/>
+        <path id="point-0-13" class="fls-3" d="M504.5,416.48h27.16v-167.87h-27.16v167.87Z"/>
+        <path id="point-0-14" class="fls-3" d="M538.45,416.48h27.16v-47.46h-27.16v47.46Z"/>
+        <path id="point-0-15" class="fls-3" d="M572.4,416.48h27.16v-5.06h-27.16v5.06Z"/>
+        <path id="point-0-16" class="fls-3" d="M606.35,416.48h27.16v-28.09h-27.16v28.09Z"/>
+        <path id="point-0-17" class="fls-3" d="M640.3,416.48h27.16v-7.15h-27.16v7.15Z"/>
+        <path id="point-0-18" class="fls-3" d="M674.25,416.48h27.16v-15.53h-27.16v15.53Z"/>
+        <path id="point-0-19" class="fls-3" d="M708.2,416.48h27.16v-24.43h-27.16v24.43Z"/>
+        <path id="point-0-20" class="fls-3" d="M742.14,416.48h27.16v-.52h-27.16v.52Z"/>
+      </g>
+    </g>
+    <g id="orange">
+      <g id="orange-2">
+        <path id="point-1-0" class="fls-1" d="M63.16,183.86h27.16v-112.9h-27.16v112.9Z"/>
+        <path id="point-1-1" class="fls-1" d="M97.11,279.14h27.16v-46.94h-27.16v46.94Z"/>
+        <path id="point-1-2" class="fls-1" d="M131.05,296.42h27.16v-38.56h-27.16v38.56Z"/>
+        <path id="point-1-3" class="fls-1" d="M165,284.9h27.16v-32.28h-27.16v32.28Z"/>
+        <path id="point-1-4" class="fls-1" d="M198.95,396.93h27.16v-2.44h-27.16v2.44Z"/>
+        <path id="point-1-5" class="fls-1" d="M232.9,367.09h27.16v-10.82h-27.16v10.82Z"/>
+        <path id="point-1-6" class="fls-1" d="M266.85,395.88h27.16v-7.68h-27.16v7.68Z"/>
+        <path id="point-1-7" class="fls-1" d="M300.8,370.23h27.16v-26h-27.16v26Z"/>
+        <path id="point-1-8" class="fls-1" d="M334.75,406.35h27.16v-2.96h-27.16v2.96Z"/>
+        <path id="point-1-9" class="fls-1" d="M368.7,314.22h27.16v-59.5h-27.16v59.5Z"/>
+        <path id="point-1-10" class="fls-1" d="M402.65,362.38h27.16v-11.86h-27.16v11.86Z"/>
+        <path id="point-1-11" class="fls-1" d="M436.6,387.51h27.16v-3.49h-27.16v3.49Z"/>
+        <path id="point-1-12" class="fls-1" d="M470.55,403.21h27.16v-12.39h-27.16v12.39Z"/>
+        <path id="point-1-13" class="fls-1" d="M504.5,247.21h27.16v-78.87h-27.16v78.87Z"/>
+        <path id="point-1-14" class="fls-1" d="M538.45,367.61h27.16v-16.58h-27.16v16.58Z"/>
+        <path id="point-1-15" class="fls-1" d="M572.4,410.19h27.16v-.52h-27.16v.52Z"/>
+        <path id="point-1-16" class="fls-1" d="M606.35,386.98h27.16v-1.92h-27.16v1.92Z"/>
+        <path id="point-1-17" class="fls-1" d="M640.3,408.36h27.16v-.26h-27.16v.26Z"/>
+        <path id="point-1-18" class="fls-1" d="M674.25,399.55h27.16v-5.06h-27.16v5.06Z"/>
+        <path id="point-1-19" class="fls-1" d="M708.2,390.65h27.16v-4.01h-27.16v4.01Z"/>
+      </g>
+    </g>
+  </g>
+  <circle class="fls-10" cx="15.75" cy="30.55" r="5.25"/>
+  <circle class="fls-12" cx="214.74" cy="30.55" r="5.25"/>
+  <g class="fls-4">
+    <text class="fls-5" transform="translate(23.8 23.5)"><tspan x="0" y="0">nb_vp rechargeable 2023-2024</tspan></text>
+  </g>
+  <g class="fls-4">
+    <text class="fls-5" transform="translate(222.79 23.5)"><tspan x="0" y="0">nb_vp rechargeable 2020</tspan></text>
+  </g>
+</svg>
